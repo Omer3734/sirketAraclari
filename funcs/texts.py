@@ -1,5 +1,5 @@
 plakaSorgu = "Plaka Giriniz: "
-renkSorgu = "Marka Giriniz: "
+renkSorgu = "Renk Giriniz: "
 markaSorgu = "Marka Giriniz: "
 modelSorgu = "Model Giriniz: "
 kmSorgu = "KM Değeri Giriniz: "
